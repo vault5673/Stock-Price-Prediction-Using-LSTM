@@ -1,4 +1,3 @@
-# Stock-Price-Prediction-Using-LSTM
 # Apple Stock Price Prediction Using LSTM
 
 This project demonstrates how to predict the closing stock prices of Apple Inc. (AAPL) using a Long Short-Term Memory (LSTM) neural network.
